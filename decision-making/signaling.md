@@ -7,7 +7,7 @@ description: '"Sharing is caring"'
 ![](../.gitbook/assets/decisions-3.png)
 
 {% hint style="info" %}
-After [assessing](risk-assessment.md) and [deciding](./), it is time to make sure we reduce information asymmetry and  signal some of the: **rationale**, the actual **decision** and it's **implications** \(be it with simple bread-crumbs or a proposal document\).
+After [assessing](risk-assessment.md) and [deciding](./), it is time to make sure we reduce information asymmetry and signal some of the: **rationale**, the actual **decision** and it's **implications** \(be it with simple bread-crumbs or a proposal document\).
 {% endhint %}
 
 Helping colleagues understand what is going on and what is coming to be nurture **synergies** and **stigmergy**. And those are special ingredients to beautiful things.
@@ -20,7 +20,7 @@ As mention earlier, small decisions ideally fit inside kanban cards. "Sharing is
 
 ### Structured Decisions
 
-#### Consent based 
+#### Consent based
 
 Will usually happen during calls and thus should be logged in a [call tactical](../resources/taticals.md) and then to the "[Roles & Policies](https://dao-incubator.gitbook.io/wiki/org/governance)" doc. If outside of a call, please make sure to streamline it to its housing. By either DIY or asking the comms circle's help.
 
@@ -30,7 +30,7 @@ Decisions made in Arenas like Loomio, Aragon and others have automated ways of s
 
 As described in [this proposal](https://docs.google.com/document/d/11QyCfUZVveBDw2Mib8jFKiM-mBZHNbNAbaBve5EylGY/edit?usp=sharing): "Expectations not set in [Roles & Policies](https://dao-incubator.gitbook.io/wiki/org/governance) doc are not valid."
 
-> "If we can’t report well, we don’t pursue."   
+> "If we can’t report well, we don’t pursue."  
 > @nonprofitbecky
 
 ## **Communication is critical to the process.**
@@ -54,22 +54,18 @@ As we come together and build together we know that:
 | Trello | Calls | Loomio |
 | Discord | Discord | Aragon |
 
-{% tabs %}
-{% tab title="Calls" %}
-* Tacticals
-{% endtab %}
 
-{% tab title="Trello" %}
+
+* Tacticals
+
+
+
 * Cards
 * Labels
 * Columns
-{% endtab %}
 
-{% tab title="Discord" %}
 
-{% endtab %}
 
-{% tab title="Loomio" %}
 Threads
 
 * Proposal
@@ -79,12 +75,8 @@ Threads
 * Score
 * Time Poll
 * Ranked Choice
-{% endtab %}
 
-{% tab title="Aragon" %}
 
-{% endtab %}
-{% endtabs %}
 
 ### Channels
 
@@ -121,7 +113,7 @@ An **environment** or **tier** is a system in which a process or component is de
 
 These normally break down as follows:
 
-#### **Development**: 
+#### **Development**:
 
 [_GDrive folder_](https://drive.google.com/drive/folders/11Dcr_kgeR_lPenmb1hdT72rbYvVMrqX7)_, mostly_  
 Working In Progress, new documents, drafts, sketches are deployed here so collaboration and feedback may happen. This environment is rapidly updated and contains the most recent version of our work.
@@ -131,16 +123,16 @@ Working In Progress, new documents, drafts, sketches are deployed here so collab
 _You are here_  
 This is the release candidate, and this environment is normally a mirror of the production environment. The staging area contains the "stable" versions and pre approved documentation and is used for final stress testing and voting/approvals before going live.
 
-#### **Production**: 
+#### **Production**:
 
 _Our_ [_public gitbook_](https://dao-incubator.gitbook.io/)  
 This is the currently released version of our work, accessible to the community/end users. This version preferably does not change except for during scheduled releases.
 
 ## Conclusion
 
-**Decisions** emerge from **discussions** and eventually produce **Artifacts**, to be used as **Assets** on future cycles of communications and decisions all over again. Such cycles can 
+**Decisions** emerge from **discussions** and eventually produce **Artifacts**, to be used as **Assets** on future cycles of communications and decisions all over again. Such cycles can
 
-Environments can 
+Environments can
 
-![](../.gitbook/assets/image%20%281%29.png)
+![](../.gitbook/assets/image-1.png)
 

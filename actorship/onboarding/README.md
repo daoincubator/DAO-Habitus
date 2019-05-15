@@ -10,35 +10,25 @@ description: 'All Onboarding documentation should be found here, somehow.'
 
 ## Guides
 
-{% tabs %}
-{% tab title="Community" %}
+
+
 {% page-ref page="../code-of-conduct/" %}
 
-{% embed url="https://medium.com/dao-incubator/introducing-dao-incubator-311070c555" %}
-{% endtab %}
+{% embed url="https://medium.com/dao-incubator/introducing-dao-incubator-311070c555" caption="" %}
 
-{% tab title="Collaborator" %}
+
+
 {% page-ref page="../code-of-conduct/" %}
 
 {% page-ref page="../../decision-making/" %}
-{% endtab %}
 
-{% tab title="Team" %}
-{% embed url="https://parrachia.gitbook.io/dao-habitus/" %}
-{% endtab %}
-{% endtabs %}
-
-
+{% embed url="https://parrachia.gitbook.io/dao-habitus/" caption="" %}
 
 ## BOARD - Our Onboarding Ritual
 
-{% embed url="https://docs.google.com/presentation/d/1kAt1kbHzo2gH4S7Xh\_xF\_7dG7NDOpZGiPsnK0PiOllY/edit?usp=sharing" %}
+{% embed url="https://docs.google.com/presentation/d/1kAt1kbHzo2gH4S7Xh\_xF\_7dG7NDOpZGiPsnK0PiOllY/edit?usp=sharing" caption="" %}
 
 ### The Onboarding Ritual Passed Proposal
 
-{% embed url="https://docs.google.com/document/d/1CHmuVG6j-UsuLKTjAvyhGZQf5IT61yGZ101CflO2qus/edit" %}
-
-
-
-
+{% embed url="https://docs.google.com/document/d/1CHmuVG6j-UsuLKTjAvyhGZQf5IT61yGZ101CflO2qus/edit" caption="" %}
 

@@ -6,9 +6,9 @@ I recently [asked on Twitter](https://twitter.com/RichDecibels/status/1075525912
 
 **If you have more to add,** please [edit this page](https://hackmd.io/s/Skh_dXNbE/edit?both), contribute [on Twitter](https://twitter.com/RichDecibels/status/1078822810720468992), or email [rich@thehum.org](mailto:rich@thehum.org) ![:heart\_eyes:](https://hackmd.io/build/emojify.js/dist/images/basic/heart_eyes.png)
 
-### Specific examples of organisational handbooks <a id="Specific-examples-of-organisational-handbooks"></a>
+## Specific examples of organisational handbooks  <a id="Specific-examples-of-organisational-handbooks"></a>
 
-#### Permanent \(e.g. workplaces, businesses, NGOs\) <a id="Permanent-eg-workplaces-businesses-NGOs"></a>
+### Permanent \(e.g. workplaces, businesses, NGOs\)  <a id="Permanent-eg-workplaces-businesses-NGOs"></a>
 
 1. Most of my organising experience is in [Loomio](http://loomio.org/), a software co-op with a [great handbook](http://loomio.coop/).
 2. Loomio is one of many social enterprises in the [Enspiral](http://enspiral.com/) network. The [Enspiral Handbook](http://handbook.enspiral.com/)explains how we self-govern.
@@ -32,7 +32,7 @@ I recently [asked on Twitter](https://twitter.com/RichDecibels/status/1075525912
 20. [Scaling Agile at Spotify](http://blog.crisp.se/2012/11/14/henrikkniberg/scaling-agile-at-spotify): explaining how Spotify’s 250+ tech staff coordinate across tribes, squads, chapters and guilds.
 21. [Hanno Playbook](https://hanno.co/playbooks) - a self-managing team of 8 designers with excellent documentation about the internal operations of their company
 
-#### Temporary \(e.g. campaigns, events\) <a id="Temporary-eg-campaigns-events"></a>
+### Temporary \(e.g. campaigns, events\)  <a id="Temporary-eg-campaigns-events"></a>
 
 1. Barcelona en Comú published [How To Win Back The City](https://barcelonaencomu.cat/ca/post/barcelona-en-comu-publishes-how-guide-winning-back-city-mark-anniversary-electoral-victory), one year after a coallition of grassroots activists won the municipal elections.
 2. [How We Organize the Allied Media Conference \(2017 edition\).](https://www.alliedmedia.org/sites/default/files/howweorganize2017_web.pdf) This zine was organized in 2013 by the Allied Media Projects to open source their methodology for convening what is now, in its 20th year, more than a 3,000 person conference themed around “[media-based organizing](https://www.alliedmedia.org/sites/default/files/howweorganize2017_web.pdf)” in Detroit, USA. The content of the conference is generated, coordinated, and selected in an impressively decentralized manner.
@@ -48,9 +48,9 @@ I recently [asked on Twitter](https://twitter.com/RichDecibels/status/1075525912
 12. [Ouishare Fest Toolkit](http://toolkit.ouisharefest.com/)- a guide to organizing a participatory festival.
 13. [Extinction Rebellion organising docs](https://docs.google.com/document/d/147Gv-Bl4M-7CAPqrVoAnVP_IxHqHNGQ8b0YiYjAedlk/edit)
 
-### Generalised lessons: toolkits, books, etc <a id="Generalised-lessons-toolkits-books-etc"></a>
+## Generalised lessons: toolkits, books, etc  <a id="Generalised-lessons-toolkits-books-etc"></a>
 
-#### More business like <a id="More-business-like"></a>
+### More business like  <a id="More-business-like"></a>
 
 1. [Better Work Together](http://betterworktogether.co/) – stories and tools from Enspiral \(network of self-managing social enterprises\)
 2. [Reinventing Organisations](http://www.reinventingorganizations.com/) by Frederic Laloux is a really influential book sharing case studies of large organisations in different sectors, successfully operating without centralised management systems. Good [wiki](http://www.reinventingorganizationswiki.com/) too.
@@ -94,7 +94,7 @@ I recently [asked on Twitter](https://twitter.com/RichDecibels/status/1075525912
 40. [Open Space Beta](https://www.openspacebeta.com/): Beta transformation just got a hell of a lot less complicated
 41. [Team Tempo](http://futureofwork.nobl.io/team-tempo/): book by NOBL Collective
 
-#### More community like <a id="More-community-like"></a>
+### More community like  <a id="More-community-like"></a>
 
 1. [The Empowerment Manual: A guide for collaborative groups](https://starhawk.org/writing/books/the-empowerment-manual/) – excellent book by ecofeminist organiser Starhawk
 2. New Economy Organisers Network share their [toolkit for campaigners, activists & organisers](http://neweconomyorganisers.org/resources).
@@ -124,14 +124,14 @@ I recently [asked on Twitter](https://twitter.com/RichDecibels/status/1075525912
 26. [It’s vacant, take it! \(zine\)](https://ia801902.us.archive.org/35/items/ItsVacantTakeIt/its-vacant-take-it-SCREEN.pdf) - 3rd edition \(Fall 2013\) of the Homes Not Jails squatting zine. While the guide comes from a group based in San Francisco, many of the tips would be helpful for anyone squatting regardless of their location. It includes tips on finding comrades/friends to squat with, finding a building, securing a squat, dealing with the law and/or property owners, and more.
 27. [How to organize a pirate kindergarten in your neighborhood](http://soprasottomilano.it/come-aprire-un-nido-pirata-nel-quartiere/). A little manual on collective care and parenting, starting from the specific experience of the self-managed nest _Soprasotto_ in Milan.
 
-### Legal <a id="Legal"></a>
+## Legal  <a id="Legal"></a>
 
 1. [The Do-Ocracy Handbook: organisational types and legal structures](https://transitionnetwork.org/news-and-blog/new-reconomy-guide-ocracy-handbook/) by Mark Simmonds \(UK legal focus\)
 2. [Sustainable Economies Law Center \(SELC\)](https://www.theselc.org/cooperatives)
 3. [Purpose Economy: Steward Ownership model](https://purpose-economy.org/en/). See [Sharetribe for example](https://medium.com/bettersharing/steward-ownership-is-capitalism-2-0-76a1c50a6d88)
 4. [Fairshares](http://www.fairshares.coop/) model for multi-stakeholder coops
 
-### Trainers <a id="Trainers"></a>
+## Trainers  <a id="Trainers"></a>
 
 1. [AORTA](http://aorta.coop/) - The Anti-Oppression Resource and Training Alliance is a worker-owned co-op supporting grassroots and social justice groups to grow their capacity.
 2. [Ayni Institute](https://ayni.institute/about/) - training for social movement organisers. A lot of their training content is available as online videos, e.g. see the [Momentum Webinar Series](https://www.youtube.com/playlist?list=PLeJeAirMA52rCePt4WuuZPD1WXb2Jnd5H) on the science of social movements, and the [SWARM Training](https://www.youtube.com/playlist?list=PLeJeAirMA52rjdn4ji49UWg_lebY2hdf4) on decentralised organising.
@@ -144,7 +144,7 @@ I recently [asked on Twitter](https://twitter.com/RichDecibels/status/1075525912
 9. [NetChange](http://netchange.co/trainings) – distributed organising campaign trainers
 10. [Tripod Training](https://tripodtraining.org/) – Training, meeting facilitation and conflict mediation to support groups to work in better alignment with their visions and values.
 
-### Why <a id="Why"></a>
+## Why  <a id="Why"></a>
 
 I think the best structure for any organising effort must be custom-fit to its local context. I don’t believe in “one size fits all” solutions, but we don’t need to start from a blank slate either. [My book](https://leanpub.com/patterns-for-decentralised-organising/)is a collection of “patterns”, experiences that are common in all collaborative groups. Each pattern names a common _dysfunction_ \(e.g. unfair distribution of care labour\), and a _response_ \(e.g. account for care work the same way you treat other work\).
 
@@ -157,13 +157,13 @@ My approach to organisational development:
 
 So the “handbooks” listed here are examples of _local_ context \(with much gratitude to the authors who make their experience transparent for others to learn from\). The “toolkits and books” are _global_ lessons extracted from local experience.
 
-#### Contributors <a id="Contributors"></a>
+### Contributors  <a id="Contributors"></a>
 
 [@richdecibels](https://twitter.com/RichDecibels) [@patconnoly](https://twitter.com/patconnolly) [@toddhoskins](https://twitter.com/toddhoskins) [@shareable](https://twitter.com/shareable) [@JPatrickDunn](https://twitter.com/JPatrickDunn) [@patriciarealini](https://twitter.com/patriciarealini)[@WCCWLA](https://twitter.com/WCCWLA) [@adriennemaree](https://twitter.com/adriennemaree) [@AyniTeam](https://twitter.com/AyniTeam) [@UlexProject](https://twitter.com/UlexProject) [@pircuk](https://twitter.com/pircuk) [@NEON\_UK](https://twitter.com/NEON_UK) [@jaimeyann](https://twitter.com/jaimeyann)[@feminineist](https://twitter.com/feminineist) [@staccoP2P](https://twitter.com/StaccoP2P) [@bcnencomu](https://twitter.com/bcnencomu) [@mrchrisadams](https://twitter.com/mrchrisadams) [@350](https://twitter.com/350) [@rhizomecoop](https://twitter.com/rhizomecoop) [@jdaviescoates](https://twitter.com/jdaviescoates)[@PlatformLondon](https://twitter.com/PlatformLondon) [@CFTransition](https://twitter.com/CFTransition) [@transitiontowns](https://twitter.com/transitiontowns) [@awesomefound](https://twitter.com/awesomefound) [@sam5](https://twitter.com/sam5) [@radicalthnktnk](https://twitter.com/radicalthnktnk)[@Jas\_Tribe](https://twitter.com/Jas_Tribe) [@Sam\_Applebee](https://twitter.com/Sam_Applebee) [@randallito](https://twitter.com/randallito) [@CosechaMovement](https://twitter.com/CosechaMovement) [@roguesofa](https://twitter.com/roguesofa) [@Owoy](https://twitter.com/Owoy)[@douginamug](https://mastodon.xyz/@douginamug) [@neil](https://social.coop/@neil) [@mattcropp](https://social.coop/@mattcropp) [@wearehanno](https://twitter.com/wearehanno/) [@flpvsk](https://twitter.com/flpvsk) [@CfFominaya](https://twitter.com/CfFominaya) [@disruptandlearn](https://twitter.com/disruptandlearn)[@yanche](https://twitter.com/yanche) [@AmyCEdmondson](https://twitter.com/AmyCEdmondson) [@JohnDobbin](https://twitter.com/JohnDobbin) [@theready](https://twitter.com/theready) [@aarondignan](https://twitter.com/aarondignan) [@fred\_laloux](https://twitter.com/fred_laloux)[@ChuckBlakeman](https://twitter.com/ChuckBlakeman) [@guff\_se](https://twitter.com/guff_se) [@hyperisland](https://twitter.com/hyperisland) [@KeithMcCandless](https://twitter.com/KeithMcCandless) [@Redshifter3](https://twitter.com/Redshifter3) [@b\_bockelbrink](https://twitter.com/b_bockelbrink)[@jamespriest\_S3](https://twitter.com/jamespriest_S3) [@lilidavidis](https://twitter.com/lilidavidis) [@CoopsMark](https://twitter.com/CoopsMark) [@netchange](https://twitter.com/netchange) [@getpowerlabs](https://twitter.com/getpowerlabs) [@Price\_J\_Matt](https://twitter.com/Price_J_Matt)[@MobilisationLab](https://twitter.com/MobilisationLab) [@hugi](https://edgeryders.eu/u/hugi) [@outseta](https://twitter.com/outseta) [@valeriecosta](https://twitter.com/valeriecosta) [@TheSELC](https://twitter.com/TheSELC) [@FairSharesAssoc](https://twitter.com/FairSharesAssoc)[@joost\_minnaar](https://twitter.com/joost_minnaar) [@deewhock](https://twitter.com/deewhock) [@kolind](https://twitter.com/kolind) [@ricardosemler](https://twitter.com/ricardosemler) [@StanMcChrystal](https://twitter.com/StanMcChrystal) [@isaacgetz](https://twitter.com/isaacgetz)[@profhamel](https://twitter.com/profhamel) [@jdaviescoates](https://twitter.com/jdaviescoates) [@GuerrillaTrans](https://twitter.com/GuerrillaTrans) [@daspitzberg](https://twitter.com/daspitzberg) [@m8rt](https://twitter.com/m8rt) [@crispsweden](https://twitter.com/crispsweden) [@rkasper](https://twitter.com/rkasper)[@henrikkniberg](https://twitter.com/henrikkniberg) [@theQCommunity](https://twitter.com/theQCommunity) [@douginamug](http://twitter.com/douginamug) [@MatthewMezey](https://twitter.com/MatthewMezey) [@zaunders](https://twitter.com/zaunders) [@worknobl](https://twitter.com/worknobl)[@villum](https://twitter.com/villum) [@designcentret](https://twitter.com/designcentret) [@samspurlin](https://twitter.com/samspurlin) [@coopchange](https://twitter.com/coopchange) [@nmaljkovic](https://www.linkedin.com/in/nmaljkovic/)
 
 **If you have more to add,** please [edit this page](https://hackmd.io/s/Skh_dXNbE/edit?both), contribute [on Twitter](https://twitter.com/RichDecibels/status/1078822810720468992), or email [rich@thehum.org](mailto:rich@thehum.org) ![:heart\_eyes:](https://hackmd.io/build/emojify.js/dist/images/basic/heart_eyes.png)
 
-#### Free Culture License <a id="Free-Culture-License"></a>
+### Free Culture License  <a id="Free-Culture-License"></a>
 
 This work is licensed [CC0](https://creativecommons.org/publicdomain/zero/1.0/), meaning you can use it in any way you like. If you want to be friendly you can credit Richard D. Bartlett from [richdecibels.com](http://richdecibels.com/)
 

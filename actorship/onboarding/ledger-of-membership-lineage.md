@@ -11,5 +11,3 @@ After a successful decision-making about onboarding a new member, their "lineage
 | Pedro | Livia | April 25th, 2019 |
 | Pedro | Erik | April 25th, 2019 |
 
-
-

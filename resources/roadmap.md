@@ -12,7 +12,7 @@
    2. Establishing **Ambassadorship**
       1. DAOstack
       2. Aragon
-      3. Colony ****
+      3. Colony _\*\*_
    3. First **microgrant**\(s\)
 3. Launch research initiatives & start publishing
    1. Launch co-authored **DAO Landscape Research**

@@ -5,13 +5,13 @@ description: >-
   norms/expectations with the power of Git
 ---
 
-# DAO Habitus
+# DAOhabitus
 
-## Proposal: DAO Habitus - Git Based Governance
+## Proposal: DAOhabitus - Git Based Governance
 
 Governance is messy, Git is neat. So lets use it for that!
 
-**Why?** See _"_[_Why Git_](https://parrachia.gitbook.io/dao-habitus/#why-git)_"_ below. 
+**Why?** See _"_[_Why Git_](https://parrachia.gitbook.io/dao-habitus/#why-git)_"_ below.
 
 **What?** Structured Governance in 2 [Environments](decision-making/signaling.md#environments) + a [kanban](https://trello.com/b/XrAjqdlO/dao-incubator), somehow.  
 \* Staging \(here\) - unlisted with all the messy but stable stuff  
@@ -40,7 +40,7 @@ Governance can be considered: "The process by which we attempt to establish \(an
 
 ## Why Git
 
-{% embed url="https://www.atlassian.com/git/tutorials/why-git/" %}
+{% embed url="https://www.atlassian.com/git/tutorials/why-git/" caption="" %}
 
 #### DAO Habitus is about designing our governance around Git's main traits:
 
@@ -60,7 +60,5 @@ The way polity becomes deposited in persons in the form of lasting dispositions,
 
 > “When you feel connected to everything, you also feel responsible for everything. And you cannot turn away. Our destiny is bound with the destinies of others. We must either learn to carry on with the Universe or be crushed by it. We must grow strong enough to love the world, yet empty enough to sit down at the same table with its worst horrors.”
 
-![](.gitbook/assets/image%20%287%29.png)
-
-
+![](.gitbook/assets/image-7.png)
 

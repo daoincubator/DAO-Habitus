@@ -29,8 +29,9 @@ Finally, there are three types of decisions:
 * **Prioritization** — force rank a number of options, such as choosing the next five features to build out of one hundred possible options.
 * **Choice** — choosing a single option among many possibilities, such as a name for a new product.
 
-> “A good plan, violently executed now, is better than a perfect plan next week.”  
-> - Gen. George S. Patton
+> “A good plan, violently executed now, is better than a perfect plan next week.”
+>
+> * Gen. George S. Patton
 
 **Should there be one decision maker or multiple?**
 

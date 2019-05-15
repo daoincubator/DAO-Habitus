@@ -19,6 +19,5 @@ Anybody can raise an expectations setup/change on the group meetings, with the I
 
 If the proposal passes secretary should move the decision to the “Roles & Policies” doc, from meeting minutes.
 
-**Expectation not set in “Roles & Policies” doc are not valid.**  
-
+**Expectation not set in “Roles & Policies” doc are not valid.**
 

@@ -7,23 +7,23 @@ description: A framework that offers structure to the ambiguous and high-risk de
 ![](../.gitbook/assets/decisions-complex.png)
 
 {% hint style="info" %}
-Simply put, if your [assessment](risk-assessment.md) indicates a decision impacts many stakeholders, then it should follow a structured **framework:** build a proposal, validate & vote it, decide & [consolidate](signaling.md) it.  
+Simply put, if your [assessment](risk-assessment.md) indicates a decision impacts many stakeholders, then it should follow a structured **framework:** build a proposal, validate & vote it, decide & [consolidate](signaling.md) it.
 {% endhint %}
 
-A **Structured Decision-Making Framework** is only needed when there is lack of clarity about a decision that is _higher risk_. Higher risk can mean that the decision has long term implications or that it can be costly to unwind if the wrong decision is made.[\*]()
+A **Structured Decision-Making Framework** is only needed when there is lack of clarity about a decision that is _higher risk_. Higher risk can mean that the decision has long term implications or that it can be costly to unwind if the wrong decision is made.[\*](structured-decision-making-framework.md)
 
 Structure removes ambiguity around process and should lead to better decisions with lower overhead.
 
 ## The Framework
 
- The framework has three stages: **\(1\)** proposal building, **\(2\)** validation, and **\(3\)** decision.
+The framework has three stages: **\(1\)** proposal building, **\(2\)** validation, and **\(3\)** decision.
 
 1. **Proposal Building** is about describing what decision we’re making, who needs to make the decision, who is impacted, and when the decision needs to be made. Done in our Dev Environment \(i.e. freely\)
 2. **Validation** is voting on the options. In a [Decision Arena](https://parrachia.gitbook.io/dao-habitus/~/edit/drafts/-Lb_yhztYRhD12uOf3NS/decision-making/signaling#arenas)
 3. **Decision** documents the decision made, the rationale for the decision, and the plan to communicate the decision back to those impacted. _You are here-ish_, this is literally what this proposal is about.
 
 {% hint style="info" %}
-There are multiple templates, where the **IDM** below is the preferred choice, **Decentraland's framework** is also useful for when it's far away from the next call \(or not enough quorum\) or too big for Trello \(using [Loomio](https://www.loomio.org/g/X5fYj0u1/daoincubator) instead\). 
+There are multiple templates, where the **IDM** below is the preferred choice, **Decentraland's framework** is also useful for when it's far away from the next call \(or not enough quorum\) or too big for Trello \(using [Loomio](https://www.loomio.org/g/X5fYj0u1/daoincubator) instead\).
 {% endhint %}
 
 ### Consent based \(default\)
@@ -38,7 +38,7 @@ Whenever IDM is not the best fit \(e.g. not enough quorum\) using a dedicated de
 
 {% page-ref page="../resources/template/loomio-best-practices.md" %}
 
-Finally, if you ever feel like in need for a in depth structured decision guide, feel free to check this framework out: 
+Finally, if you ever feel like in need for a in depth structured decision guide, feel free to check this framework out:
 
 {% page-ref page="../resources/template/decentraland-coinbase-decision-making-framework.md" %}
 
@@ -67,6 +67,5 @@ There are many ways to mess up decision making, and just like anything you will 
 * **Too much process** Using the decision making process on a low-risk decision when the manager could have unilaterally, and more quickly, made it in the moment.
 * **Unintentional democracy** The decision maker feels pressured to choose the option with the most votes, abdicating their responsibility to choose what they feel is really the best option.
 
-This framework is derived from another that has helped both Coinbase and Decentraland make better decisions, faster, with more buy in. Hopefully we will find it useful as well!  
-
+This framework is derived from another that has helped both Coinbase and Decentraland make better decisions, faster, with more buy in. Hopefully we will find it useful as well!
 

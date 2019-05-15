@@ -1,6 +1,6 @@
 # Table of contents
 
-* [DAO Habitus](README.md)
+* [DAOhabitus](README.md)
 * [Decision-Making](decision-making/README.md)
   * [Risk Assessment](decision-making/risk-assessment.md)
   * [Simple Decision-Making Process](decision-making/simple-decision-making-process.md)

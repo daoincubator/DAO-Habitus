@@ -4,9 +4,9 @@
 
 ### tweet like description
 
-#### + call to action 
+#### + call to action
 
 ## partners logos
 
-![](../../.gitbook/assets/image%20%288%29.png)
+![](../../.gitbook/assets/image-8.png)
 

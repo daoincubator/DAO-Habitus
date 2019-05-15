@@ -6,7 +6,7 @@ description: >-
 
 # Decision-Making
 
-![](../.gitbook/assets/image%20%283%29.png)
+![](../.gitbook/assets/image-3.png)
 
 ## 1. Risk Assessment
 
@@ -22,7 +22,7 @@ Prioritizes execution over deliberation. Empowering a team to execute comes with
 
 {% page-ref page="structured-decision-making-framework.md" %}
 
-Is only needed when there is lack of clarity about a decision that is _higher risk_. Higher risk can mean that the decision has long term implications or that it can be costly to unwind if the wrong decision is made.[\*]()
+Is only needed when there is lack of clarity about a decision that is _higher risk_. Higher risk can mean that the decision has long term implications or that it can be costly to unwind if the wrong decision is made.[\*](./)
 
 {% hint style="info" %}
 If the decision is both ambiguous and high-stakes, we use the **framework**. If the decision is only ambiguous, the decision-maker can **collaborate** with a few people and make the call. And if the decision is neither ambiguous or high-stakes, the decision-maker should simply **move forward**. In all cases, **communication** to the team completes the decision.
@@ -30,17 +30,13 @@ If the decision is both ambiguous and high-stakes, we use the **framework**. If 
 
 ### What does good decision making look like?
 
-![](../.gitbook/assets/image%20%2811%29.png)
+![](../.gitbook/assets/image-11.png)
 
-## 3. Signaling 
+## 3. Signaling
 
 > A decision is not complete until all impacted by that decision are notified. if you'd never abandon a puppy, why abandon decisions outputs? Think about the puppies.
 
 {% page-ref page="signaling.md" %}
 
-![ Think about the puppies; source: @catsonsynthesizersinspace](../.gitbook/assets/image%20%282%29.png)
-
-
-
-
+![ Think about the puppies; source: @catsonsynthesizersinspace](../.gitbook/assets/image-2.png)
 

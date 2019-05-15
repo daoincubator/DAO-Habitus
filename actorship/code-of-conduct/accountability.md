@@ -17,7 +17,7 @@ The point of accountability questions is to help a team to maintain the practice
 
 ## Soft Accountability
 
-Some gotta know what's going on, somehow. 
+Some gotta know what's going on, somehow.
 
 Another actor actively checks in and follows up to help report/share/signal when necessary.
 
@@ -31,9 +31,7 @@ Example:
 
 ## References
 
-{% embed url="https://medium.com/enspiral-tales/accountability-questions-how-we-made-self-management-stick-80c3be194053" %}
+{% embed url="https://medium.com/enspiral-tales/accountability-questions-how-we-made-self-management-stick-80c3be194053" caption="" %}
 
-{% embed url="https://medium.com/enspiral-tales/how-to-create-powerful-accountability-questions-for-self-management-605c90f260a2" %}
-
-
+{% embed url="https://medium.com/enspiral-tales/how-to-create-powerful-accountability-questions-for-self-management-605c90f260a2" caption="" %}
 
