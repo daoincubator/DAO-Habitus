@@ -28,7 +28,7 @@ Both Gitbooks should pretty much cover that:
 
 * While this is our official, public one - our Production Environment:
 
-{% embed url="https://dao-incubator.gitbook.io/wiki/" caption="" %}
+{% embed url="https://app.gitbook.com/@daoincubation/s/wiki/" %}
 
 These are some other handy links:  
 [Website](https://daoincubator.org/)  
